@@ -29,8 +29,8 @@ Chicken Biryani is made of a melodious union of **rice, spices and meat***, this
     9. As soon as you see steam, turn down to low then cook for 25 minutes.
     10. Remove from stove, rest with lid on for 10 minutes.
 
-    ![Chicken Biryani](images.ChickenBiryani1.jpg)     
-    ![Chicken Biryani](images.ChickenBiryani2.jpg)
+    ![Chicken Biryani](images\ChickenBiryani1.jpg)     
+    ![Chicken Biryani](images\ChickenBiryani2.jpg)
 
 ## Chicken Biryani Ingredients
 - 750g (1.5 lb) chicken thighs , skin on, bone in, halved along bone (Note 1)
@@ -83,10 +83,10 @@ These are my favourite places and i would recommend to definetely visit these pl
 | New York | 3   | $600 |
 | Las Vegas | 5   | $950 |
 
-![Grand Canyon](C:\Users\s541903\OneDrive\Desktop\Web Applications\webapps-repos\assignment2-gonegari\images.GrandCanyon.jpg)            
-![New York](images.NewYork.jpg)
-![Las Vegas](images.LasVegas.jpg)                 
-![Yellow Stone](images.YellowStone.jpg)
+![Grand Canyon](images\ChickenBiryani1.jpg)            
+![New York](images\NewYork.jpg)
+![Las Vegas](images\LasVegas.jpg)                 
+![Yellow Stone](images\YellowStone.jpg)
 
 ---
 ## My Favourite Quotes
