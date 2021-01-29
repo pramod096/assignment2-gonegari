@@ -82,5 +82,5 @@ These are my favourite places and i would recommend to definetely visit these pl
 
 ---
 ## My Favourite Quotes
-> Life is what happens when you're busy making other plans. -*John Lennon*
-> If you set your goals ridiculously high and it's a failure, you will fail above everyone else's success. -*James Cameron*
+> "Life is what happens when you're busy making other plans." -*John Lennon*
+> "If you set your goals ridiculously high and it's a failure, you will fail above everyone else's success." -*James Cameron*
