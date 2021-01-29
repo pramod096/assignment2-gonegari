@@ -83,7 +83,7 @@ These are my favourite places and i would recommend to definetely visit these pl
 | New York | 3   | $600 |
 | Las Vegas | 5   | $950 |
 
-![Grand Canyon](images.GrandCanyon.jpg)            
+![Grand Canyon](C:\Users\s541903\OneDrive\Desktop\Web Applications\webapps-repos\assignment2-gonegari\images.GrandCanyon.jpg)            
 ![New York](images.NewYork.jpg)
 ![Las Vegas](images.LasVegas.jpg)                 
 ![Yellow Stone](images.YellowStone.jpg)
