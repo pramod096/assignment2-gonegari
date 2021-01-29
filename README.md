@@ -83,5 +83,20 @@ These are my favourite places and i would recommend to definetely visit these pl
 ---
 ## My Favourite Quotes
 >"Life is what happens when you're busy making other plans." -*John Lennon*
- 
+
 >"If you set your goals ridiculously high and it's a failure, you will fail above everyone else's success." -*James Cameron*
+
+---
+> Java is a high-level programming language developed by Sun Microsystems. It was originally designed for developing programs for set-top boxes and handheld devices, but later became a popular choice for creating web applications.
+
+Definition Source Link <https://techterms.com/definition/java>
+
+```
+class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!"); 
+    }
+}
+```
+
+Code Source Link <https://www.programiz.com/java-programming/hello-world>
