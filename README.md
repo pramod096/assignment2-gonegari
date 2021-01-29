@@ -68,3 +68,15 @@ Chicken Biryani is made of a melodious union of **rice, spices and meat***, this
     - Yoghurt
 
 **[About Me](AboutMe.md)**
+
+---
+## Places to visit
+These are my favourite places and i would recommend to definetely visit these places.
+
+| Location     | Spending Days | Expenditure |
+| :---:        | :---:| :---: |
+| Grand Canyon | 1    | $250  |
+| YellowStone  | 1   | $150 |
+| New York | 3   | $600 |
+| Las Vegas | 5   | $950 |
+
