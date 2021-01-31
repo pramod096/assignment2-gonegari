@@ -2,7 +2,7 @@
 # Pramod Reddy Gonegari
 
 ## Chicken Biryani
-Chicken Biryani is made of a melodious union of **rice, spices and meat***, this lip smacking dish is rich and packed with different **Indian Spices**. A burst of flavours on your tongue, Biryani is extremely versatile, but always delicious.
+Chicken Biryani is made of a melodious union of **rice, spices and meat**, this lip smacking dish is rich and packed with different **Indian Spices**. A burst of flavours on your tongue, Biryani is extremely versatile, but always delicious.
 
 ---
 
@@ -29,7 +29,7 @@ Chicken Biryani is made of a melodious union of **rice, spices and meat***, this
     9. As soon as you see steam, turn down to low then cook for 25 minutes.
     10. Remove from stove, rest with lid on for 10 minutes.
 
-    ![Chicken Biryani](Pramod.jpg)    
+    ![Chicken Biryani](images/ChickenBiryani1.jpg)    
 
     ![Chicken Biryani](images\ChickenBiryani2.jpg)
 
