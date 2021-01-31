@@ -29,7 +29,7 @@ Chicken Biryani is made of a melodious union of **rice, spices and meat***, this
     9. As soon as you see steam, turn down to low then cook for 25 minutes.
     10. Remove from stove, rest with lid on for 10 minutes.
 
-    ![Chicken Biryani](images\ChickenBiryani1.jpg)    
+    ![Chicken Biryani](Pramod.jpg)    
 
     ![Chicken Biryani](images\ChickenBiryani2.jpg)
 
