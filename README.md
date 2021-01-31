@@ -31,7 +31,7 @@ Chicken Biryani is made of a melodious union of **rice, spices and meat**, this 
 
     ![Chicken Biryani](images/ChickenBiryani1.jpg)    
 
-    ![Chicken Biryani](images\ChickenBiryani2.jpg)
+    ![Chicken Biryani](images/ChickenBiryani2.jpg)
 
 ## Chicken Biryani Ingredients
 - 750g (1.5 lb) chicken thighs , skin on, bone in, halved along bone (Note 1)
@@ -84,13 +84,13 @@ These are my favourite places and i would recommend to definetely visit these pl
 | New York | 3   | $600 |
 | Las Vegas | 5   | $950 |
 
-![Grand Canyon](images\GrandCanyon.jpg)
+![Grand Canyon](images/GrandCanyon.jpg)
 
-![New York](images\NewYork.jpg)
+![New York](images/NewYork.jpg)
 
-![Las Vegas](images\LasVegas.jpg)
+![Las Vegas](images/LasVegas.jpg)
 
-![Yellow Stone](images\YellowStone.jpg)
+![Yellow Stone](images/YellowStone.jpg)
 
 ---
 ## My Favourite Quotes
